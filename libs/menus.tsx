@@ -11,6 +11,10 @@ export const menus = [
     label: "Our Services",
     link: "/service/",
   },
+  {
+    label: "Testimonials",
+    link: "/testimonials/",
+  },
   // {
   //   label: "Pages",
   //   link: "#",
